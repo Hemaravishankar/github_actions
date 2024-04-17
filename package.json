@@ -1,0 +1,21 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "Implementing github actions in this repository..",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemaravishankar/github_actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemaravishankar/github_actions/issues"
+  },
+  "homepage": "https://github.com/Hemaravishankar/github_actions#readme"
+}
